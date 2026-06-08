@@ -16,8 +16,8 @@ Follow these steps to configure, build, and execute the application and its test
 ### Step 1: Clone the Repository
 Clone this repository to your local directory using your preferred Git client or terminal:
 ```bash
-git clone https://github.com/your-repo/job-discovery-ios.git
-cd job-discovery-ios
+git clone https://github.com/DharmbirChoudhary/demo_client.git
+cd Demo
 ```
 
 ### Step 2: Open the Project in Xcode
